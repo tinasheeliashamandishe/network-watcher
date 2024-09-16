@@ -1,7 +1,7 @@
 <h1>Azure Network Watcher</h1>
 
 <h2>Description</h2>
-This lab will Configure Bastion.<br /><br />
+This lab will configure the Azure Network Watcher.<br /><br />
 
 Azure Bastion is a fully managed Platform as a Service (PaaS) offering from Microsoft Azure that provides secure and seamless RDP and SSH connectivity to your virtual machines (VMs) directly from the Azure portal. It eliminates the need to expose VMs to the public internet or to maintain jump servers or bastion hosts in your virtual network.
 <br /><br />
