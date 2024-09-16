@@ -13,7 +13,7 @@ Its key features are:
 This tool helps you diagnose connectivity issues between your Azure resources or between Azure and external resources.
 
 
-<h3>Connection Monitor:</h3>> <br />
+<h3>Connection Monitor:</h3> <br />
 Used to constantly monitor the connection betwwen diffrent endpoints,
 It collects data and puts it into a log anaytics work space.
 
