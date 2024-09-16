@@ -9,24 +9,24 @@ Azure Network Watcher is a comprehensive network monitoring and diagnostic servi
 Its key features are:
 <br /><br />
 
-Connection Troubleshoot: <br />
+<h3>Connection Troubleshoot:</h3> <br />
 This tool helps you diagnose connectivity issues between your Azure resources or between Azure and external resources.
 
 
-Connection Monitor: <br />
+<h3>Connection Monitor:</h3>> <br />
 Used to constantly monitor the connection betwwen diffrent endpoints,
 It collects data and puts it into a log anaytics work space.
 
-IP Flow Verify: <br />
+<h3>IP Flow Verify:</h3> <br />
 This can be used to check if a packet is allowed or denied to or from a virtual machine. If a packet is being denied by a security group, you can see which rule is denying the packet.
 
-Next Hop: <br />
+<h3>Next Hop:</h3> <br />
 his tool helps you determine the next hop for a packet from a given source to a destination. It’s useful for understanding the path that traffic will take through your network.
 
-NSG Diagnostics: <br />
+<h3>NSG Diagnostics:</h3> <br />
 Provides detailed information that helps to understand and debug the security configuration of the network.
 
-NSG Flow Logs: <br />
+<h3>NSG Flow Logs:</h3> <br />
 Provides dfull information about traffic flowing in and out via the NSGs on all your infrustructure.
 This is usefull for Network Admins doing monitoring.
 
