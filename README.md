@@ -3,33 +3,33 @@
 <h2>Description</h2>
 This lab will configure the Azure Network Watcher.<br /><br />
 
-Azure Network Watcher is a comprehensive network monitoring and diagnostic service provided by Microsoft Azure. It helps you monitor, diagnose, and gain insights into your network infrastructure in the Azure cloud. Here are some of its key features:.
+Azure Network Watcher is a comprehensive network monitoring and diagnostic service provided by Microsoft Azure. It helps you monitor, diagnose, and gain insights into your network infrastructure in the Azure cloud.
+<br /><br />
+
+Its key features are:
+<br /><br />
+
+Connection Troubleshoot: <br />
+This tool helps you diagnose connectivity issues between your Azure resources or between Azure and external resources.
 
 
+Connection Monitor: <br />
+Used to constantly monitor the connection betwwen diffrent endpoints,
+It collects data and puts it into a log anaytics work space.
 
-<h2>Environments Used </h2>
+IP Flow Verify: <br />
+This can be used to check if a packet is allowed or denied to or from a virtual machine. If a packet is being denied by a security group, you can see which rule is denying the packet.
 
-- <b>Microsoft Azure</b>
+Next Hop: <br />
+his tool helps you determine the next hop for a packet from a given source to a destination. It’s useful for understanding the path that traffic will take through your network.
 
-<h2>Lab walk-through:</h2>
+NSG Diagnostics: <br />
+Provides detailed information that helps to understand and debug the security configuration of the network.
 
-<p align="center">
-<h4>Topology</h4>
-Below, we have created a VM. This VM has no public IP address. Ware going to use Azure to log onto the VM<br/>
-<img src="https://i.imgur.com/bhbcrm3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+NSG Flow Logs: <br />
+Provides dfull information about traffic flowing in and out via the NSGs on all your infrustructure.
+This is usefull for Network Admins doing monitoring.
 
-<h4>Step 1</h4> 
-Create a Bastion subnet.<br/>
-<img src="https://i.imgur.com/M5MkGaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<h4>Step 3</h4> 
 
-<h4>Step 2</h4> 
-Configure Bastion.<br/>
-<img src="https://i.imgur.com/YnUlt3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<h4>Step 3</h4>
-
-<h4>Step 3</h4> 
-Log into the VM.<br/>
-<img src="https://i.imgur.com/tmw9F3Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Vtbz3yY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br />
+Overall, Azure Network Watcher provides a suite of tools designed to help you manage, monitor, and troubleshoot your network resources effectively in Azure.
