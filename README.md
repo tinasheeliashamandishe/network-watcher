@@ -22,7 +22,7 @@ It collects data and puts it into a log anaytics work space.
 This can be used to check if a packet is allowed or denied to or from a virtual machine. If a packet is being denied by a security group, you can see which rule is denying the packet.
 
 <h3>Next Hop:</h3> <br />
-his tool helps you determine the next hop for a packet from a given source to a destination. It’s useful for understanding the path that traffic will take through your network.
+This tool helps you determine the next hop for a packet from a given source to a destination. It’s useful for understanding the path that traffic will take through your network.
 
 <h3>NSG Diagnostics:</h3> <br />
 Provides detailed information that helps to understand and debug the security configuration of the network.
