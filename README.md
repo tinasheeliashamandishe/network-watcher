@@ -1,7 +1,8 @@
 <h1>Azure Network Watcher</h1>
 
 <h2>Description</h2>
-<br /><br />
+
+<br />
 
 Azure Network Watcher is a comprehensive network monitoring and diagnostic service provided by Microsoft Azure. It helps you monitor, diagnose, and gain insights into your network infrastructure in the Azure cloud.
 <br /><br />
