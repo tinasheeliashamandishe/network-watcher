@@ -28,7 +28,7 @@ This tool helps you determine the next hop for a packet from a given source to a
 Provides detailed information that helps to understand and debug the security configuration of the network.
 
 <h3>NSG Flow Logs:</h3> <br />
-Provides dfull information about traffic flowing in and out via the NSGs on all your infrustructure.
+Provides full information about traffic flowing in and out via the NSGs on all your infrustructure.
 This is usefull for Network Admins doing monitoring.
 
 
